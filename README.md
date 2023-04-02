@@ -9,4 +9,4 @@ But even if I copied OSU!, I didn't copied everything perfectly, I did some adju
 ## Issues
 
 1. I wasn't able to get the thing where the select items poped out. It's possible, I know that, but it's too much to get that to work fluidly.
-1. I didn't do everything, that's because I only did thing that we could use for the main project, even if this work (the OSU! selection map) was a joke of me.
+1. I didn't do everything, that's because I only did thing that we could use for the main project, even if this work (the OSU! selection map) was a joke from me to my friend.
