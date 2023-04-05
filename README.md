@@ -1,5 +1,7 @@
 # OSU! Lazer map selection
 
+[The live demo](https://namelessproj.github.io/OSU-map-selection/)
+
 For the context, one of my friends tell me for a project that it would be cool to have the same kind of selection than what OSU! has for his maps. So I create the thing based on a screenshot I took (see below).
 
 But even if I copied OSU!, I didn't copied everything perfectly, I did some adjustement for myself.
